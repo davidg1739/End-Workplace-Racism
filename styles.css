@@ -3,6 +3,10 @@ html, body, .everything, .home, .about,.homeDiscoveries, iframe, .resources {
     height:100%;
 }
 
+.about, .resources {
+    background-color: beige;
+}
+
 #landing {
         display: table;
         width: 100%;
